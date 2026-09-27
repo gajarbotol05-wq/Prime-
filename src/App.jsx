@@ -11,7 +11,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 // ============================================================
 //  CONFIG
 // ============================================================
-const API_URL = "https://www.gajarbotol.site/nirob/config.php";
+const API_URL = "https://www.gajarbotol.site/nirob/prime/config.php";
 
 // ============================================================
 //  Icon system — plain line icons, no emoji, currentColor only
